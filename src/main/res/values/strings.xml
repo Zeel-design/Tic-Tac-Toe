@@ -1,0 +1,11 @@
+<resources>
+    <string name="app_name">TicTacToeGame</string>
+    <string name="heading">Welcome to tic-tac-toe</string>
+    <string name="grid">0</string>
+    <string name="gfg_tic_tac_toe" />
+    <string name="start" />
+    <string name="turnOfO">O\'s Turn - Tap to play</string>
+    <string name="turnOfX">X\'s Turn - Tap to play</string>
+    <string name="MatchDraw">Match Draw</string>
+    <string name="Xturn">X\'s Turn - Tap to play</string>
+</resources>
